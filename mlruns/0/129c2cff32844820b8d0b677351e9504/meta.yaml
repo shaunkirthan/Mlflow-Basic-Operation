@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/shaunkirthan/Documents/Chest%20Cancer%20Classification/mlflow-test/mlruns/0/129c2cff32844820b8d0b677351e9504/artifacts
+deleted_time: 1716213251066
+end_time: 1715697051239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 129c2cff32844820b8d0b677351e9504
+run_name: delightful-trout-453
+run_uuid: 129c2cff32844820b8d0b677351e9504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715697050099
+status: 3
+tags: []
+user_id: shaunkirthan

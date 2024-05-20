@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shaunkirthan/Documents/Chest%20Cancer%20Classification/mlflow-test/mlruns/0/fc1186de94e341099d01d909548db6b7/artifacts
+end_time: 1716212143854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc1186de94e341099d01d909548db6b7
+run_name: vaunted-stag-742
+run_uuid: fc1186de94e341099d01d909548db6b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716212142684
+status: 3
+tags: []
+user_id: shaunkirthan

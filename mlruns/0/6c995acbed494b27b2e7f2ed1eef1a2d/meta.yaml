@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shaunkirthan/Documents/Chest%20Cancer%20Classification/mlflow-test/mlruns/0/6c995acbed494b27b2e7f2ed1eef1a2d/artifacts
+end_time: 1715697924782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c995acbed494b27b2e7f2ed1eef1a2d
+run_name: placid-whale-552
+run_uuid: 6c995acbed494b27b2e7f2ed1eef1a2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715697923707
+status: 3
+tags: []
+user_id: shaunkirthan

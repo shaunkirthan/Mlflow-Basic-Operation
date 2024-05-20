@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shaunkirthan/Documents/Chest%20Cancer%20Classification/mlflow-test/mlruns/0/8f62c902c65043f0bac3f94c783151bb/artifacts
+end_time: 1716212842650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f62c902c65043f0bac3f94c783151bb
+run_name: victorious-mouse-814
+run_uuid: 8f62c902c65043f0bac3f94c783151bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716212841351
+status: 3
+tags: []
+user_id: shaunkirthan
